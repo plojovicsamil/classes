@@ -1,0 +1,24 @@
+#container {
+  width: 50%;
+  display: table;
+  padding: 50px 5%;
+  background-color: grey;
+  height: 400px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+#first {
+  width: 30%;
+  height: 100%;
+  background-color: blue;
+  display: table;
+  font-size: 16px;
+}
+
+#second {
+  width: 70%;
+  height: 100%;
+  background-color: rgb(125, 207, 48);
+  box-sizing: border-box;
+}
